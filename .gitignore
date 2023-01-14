@@ -1,7 +1,4 @@
 # Annoying Eclipse and VS Code config stuff
-.settings
-.classpath
-.project
 .vscode
 /bin/
 /target/
